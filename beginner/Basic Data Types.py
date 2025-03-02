@@ -1,4 +1,4 @@
-#  4 basic Data Types: Integer, String, Boolean, and Float
+# 4 basic Data Types: Integer, String, Boolean, and Float
 
 int 1, 2, 4, 5, 0
 str 'noah', "Hello", '3232323'   #single quotes or double quotes can be used

@@ -1,4 +1,4 @@
-## Basic Operators and Input
+# Basic Operators and Input
 
 ##  name = "Noah"
 ##  print (name) # what's inside brackets are called arguments
