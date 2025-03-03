@@ -45,6 +45,6 @@ def func(x):
         return newVar
 
 func(var)
-print(var)  #prints 11 because we added global var on line 41,and changed the global variable of "var" from 9 to 11
+#print(var)  #prints 11 because we added global var on line 41,and changed the global variable of "var" from 9 to 11
 
 
